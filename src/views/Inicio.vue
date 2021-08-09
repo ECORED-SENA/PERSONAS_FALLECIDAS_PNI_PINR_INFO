@@ -7,7 +7,7 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0 Atención integral de urgencias a víctimas de ataque con agentes químicos
+            .h1.mb-0 Gestión de procesos con personas fallecidas no identificadas (PNI) e identificadas no reclamadas (PINR) en cementerios
           
           .h2.Txtc1 Información del programa
           .banner-principal__datos
