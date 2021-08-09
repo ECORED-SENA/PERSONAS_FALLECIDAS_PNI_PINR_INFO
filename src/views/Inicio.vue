@@ -14,10 +14,10 @@ section
             ul
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Atención integral de urgencias a víctimas de ataque con agentes químicos
+                p.banner-principal__datos__item__texto Gestión de procesos con personas fallecidas no identificadas (PNI) e identificadas no reclamadas (PINR) en cementerios
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 33110258
+                p.banner-principal__datos__item__texto 66460001
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48 Horas
