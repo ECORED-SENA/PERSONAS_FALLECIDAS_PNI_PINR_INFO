@@ -22,8 +22,8 @@ section
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48 Horas
               li.mb-3.banner-principal__datos__item.mb-0
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 4 Semanas
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
+                p.banner-principal__datos__item__texto 1(un) mes
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo.mb-0 Modalidad: 
                 p.banner-principal__datos__item__texto.mb-0 virtual
@@ -57,9 +57,9 @@ section
 
     p El programa está dirigido  al personal administrativo y operativo de los cementerios y funcionarios públicos con responsabilidad o competencias en la gestión de cementerios.
 
-    p Recuerde que este programa se desarrolla desde la modalidad virtual e implica el uso de tecnología como medio para acceder a conocimiento, habilidades y actitudes. 
+    p Recuerde que este programa se desarrolla desde la modalidad virtual e implica el uso de tecnología como medio para acceder a conocimiento, habilidades y actitudes.
 
-    p Tenga presente las siguientes recomendaciones para iniciar y finalizar con éxito experiencia de aprendizaje:
+    p Tenga presente las siguientes recomendaciones para iniciar y finalizar con éxito su experiencia de aprendizaje:
 
     ul.lista-ul
       li.d-flex  
@@ -67,7 +67,7 @@ section
         |	Comprenda el propósito y estructura del programa.
       li.d-flex  
         i.fas.fa-angle-right
-        |	Identifique los resultados de aprendizaje y evidencias que se esperaran de usted.
+        |	Identifique los resultados de aprendizaje y evidencias que se esperan de usted.
       li.d-flex  
         i.fas.fa-angle-right
         |	Planee y ejecute una agenda de estudio según los tiempos señalados para esta experiencia de aprendizaje.
