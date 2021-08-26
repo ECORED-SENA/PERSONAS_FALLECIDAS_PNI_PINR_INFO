@@ -39,7 +39,7 @@ section
 
     p En el contexto colombiano la desaparición de personas es una realidad, dicha situación genera hechos victimizantes que afectan la salud mental a nivel social, familiar y cultural. 
 
-    p En este sentido, el manejo integral de las víctimas y de la persona fallecida no identificada e identificada no reclamada, se constituye en un derecho que obliga al Estado y a otras Instancias a la  implementación de medidas adecuadas para la verdad, justicia, reparación y restitución de derechos. 
+    p En este sentido, el manejo integral de las víctimas y de la persona fallecida no identificada (PNI) e identificada no reclamada (PINR), se constituye en un derecho que obliga al Estado y a otras Instancias a la  implementación de medidas adecuadas para la verdad, justicia, reparación y restitución de derechos. 
 
     .row.justify-content-center
       .col-lg-9.mb-4-mb-lg-0
